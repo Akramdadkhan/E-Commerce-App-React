@@ -1,0 +1,18 @@
+.prodImg{
+    margin-right: 20px;
+}
+
+.b1{
+    background-color: rgb(54, 211, 54);
+    color: white;
+    margin-right: 5px;
+}
+.b2{
+    background-color: rgba(224, 224, 96, 0.856);
+    color: black;
+}
+.b3{
+    background-color: red;
+    color: white;
+    margin-left: 5px;
+}

@@ -1,0 +1,23 @@
+.NavigationInput{
+    margin-top: 10px;
+    width: 550px;
+    height: 30px;
+    margin-left: 10px;
+    border-radius: 25px;
+}
+
+.button{
+    padding: 8px 10px;
+    background-color: azure;
+    border-radius: 25px;
+}
+
+.Name{
+    text-decoration: none;
+    color: black;
+    font-family:fantasy;
+    font-size: 25px;
+    text-shadow: 3px 3px 10px;
+    /* font-weight: bold; */
+    padding-top: 30px;
+}

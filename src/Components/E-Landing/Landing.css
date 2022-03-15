@@ -1,0 +1,16 @@
+.c1{
+    height:100%;
+    width: 60%;
+    display: inline-block;
+     
+     
+}
+.c2{
+    display: inline-block;
+    height:100%;
+    width: 40%;
+     
+}
+.hello{
+    display: none;
+}
